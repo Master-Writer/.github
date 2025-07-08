@@ -12,7 +12,7 @@ Take your creativity to the next level with MasterWriter’s all-in-one <a href=
 
 Learn more: <a href="https://masterwriter.com">Writing Software</a>
 
-# More information:
+# Contact:
 
 Business Address: 1323 E Valley Rd, Montecito, CA 93108, United States
 
