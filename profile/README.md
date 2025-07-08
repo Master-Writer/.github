@@ -1,5 +1,7 @@
 # MasterWriter
 
+# Category: Creative Writing Tools
+
 # About
 
 MasterWriter is a powerful <a href="https://masterwriter.com/creative_writers">creative writing software</a> designed for songwriters, authors, screenwriters, and poets. Included in MasterWriter are Word Families, Phrases, Synonyms, Rhymes, Definitions, Metaphors, Similes, Idioms, Oxymorons, Onomatopoeia, Alliterations, Allusions, Pop Culture references, Intensifiers, and much more. MasterWriter also features built-in word processing and everything you need to organize your projects effortlessly. While a computer program cannot compete with the mind and imagination of a writer (or songwriter), the mind cannot compete with the word choices MasterWriter will give you in an instant.
