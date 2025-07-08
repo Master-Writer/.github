@@ -1,6 +1,6 @@
 # MasterWriter
 
-Category: Creative Writing Tools
+Category: Creative Writing Tools, Writing Software
 
 # About
 
